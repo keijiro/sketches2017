@@ -8,6 +8,9 @@ I'm using [GPD Win](https://www.indiegogo.com/projects/gpd-win-intel-z8700-win-1
 handheld PC for sketching. I think this is the best portable development environment -- I created all these
 sketches while standing in a train.
 
+I was doing the same thing last year.
+You can see them from [here](https://github.com/keijiro/sketches2016).
+
 ### License
 
 - Code: [Unlicense](http://unlicense.org/) - You can use it for whatever you want.
